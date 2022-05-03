@@ -9,3 +9,4 @@ General approach:
 - Showcase of async/await API consumption
 - No extensive eslint, prettier and no inclusion of Husky
 - App tested only on iOS 
+- .env not included in gitignore just for the sake of simplicity :)
